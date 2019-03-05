@@ -1,2 +1,0 @@
-# Web py to generate html web page
-
