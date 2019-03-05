@@ -10,3 +10,5 @@ python manage.py startapp Web_app
 # Startup Web_app
 cd Web_app 
 python manage.py runserver
+
+2
