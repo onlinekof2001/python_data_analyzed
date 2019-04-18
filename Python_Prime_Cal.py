@@ -1,5 +1,5 @@
 '''
-4 ways to get the primes
+4 ways to get the primes t
 prime is a series of integer numbers large than 1 and can only divisible by 1 and itself.
 '''
 # 穷举法, 取2到n个数, 能被2到n - 1整除的都被排除在外 range(start, stop[, step]), 不包含stop
